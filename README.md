@@ -1,11 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello&World&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20World&fontSize=80)
 
-## Introduction
+# 👋 About Me
+![T189216's GitHub stats](https://github-readme-stats.vercel.app/api?username=T189216&show_icons=true&theme=dracula&hide_border=true)
 
-[![T189216's GitHub stats](https://github-readme-stats.vercel.app/api?username=T189216&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T189216&langs_count=8&theme=dracula)](https://github.com/T189216/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T189216&layout=compact&theme=dracula)](https://github.com/T189216/github-readme-stats)  
 
-## SKill
+# 🛠️ SKill
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
