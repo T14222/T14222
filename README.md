@@ -3,7 +3,7 @@
 # 👋 About Me
 ![T189216's GitHub stats](https://github-readme-stats.vercel.app/api?username=T189216&show_icons=true&theme=dracula&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T189216&layout=compact&theme=dracula)](https://github.com/T189216/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T189216&langs_count=6&theme=dracula)](https://github.com/T189216/github-readme-stats)  
 
 # 🛠️ SKill
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
