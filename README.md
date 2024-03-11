@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20World&fontSize=80)
-
 <div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello,%20world!&fontSize=80)
+
 
 # 👋 About Me
 ![T189216's GitHub stats](https://github-readme-stats.vercel.app/api?username=T189216&show_icons=true&theme=dracula&hide_border=true)
