@@ -1,7 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20World&fontSize=80)
 
+<div align="center">
+
 # 👋 About Me
 ![T189216's GitHub stats](https://github-readme-stats.vercel.app/api?username=T189216&show_icons=true&theme=dracula&hide_border=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T189216&langs_count=6&theme=dracula)](https://github.com/T189216/github-readme-stats)
 
 
@@ -15,3 +18,5 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
