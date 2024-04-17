@@ -4,9 +4,9 @@
 
 
 # 👋 About Me
-![T189216's GitHub stats](https://github-readme-stats.vercel.app/api?username=T189216&count_private=true&hide_border=true&show_icons=true&theme=dracula&hide_border=true)
+![t189216's GitHub stats](https://github-readme-stats.vercel.app/api?username=t189216&count_private=true&hide_border=true&show_icons=true&theme=dracula&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T189216&langs_count=6&theme=dracula)](https://github.com/T189216/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t189216&langs_count=6&theme=dracula)](https://github.com/t189216/github-readme-stats)
 
 
 # 🛠️ SKill
